@@ -1,3 +1,3 @@
 # To-Do-Project
 To Do Application Example
-Link To GitHub Repository: https://github.com/SeanK330/To-Do-Project
+Link To GitHub Repository: [https://github.com/SeanK330/To-Do-Project](https://github.com/SeanK330/To-Do-Project.git)
